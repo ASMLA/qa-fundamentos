@@ -1,0 +1,3 @@
+- Título claro
+- Repetível
+- Resultado verificável

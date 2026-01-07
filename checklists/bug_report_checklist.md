@@ -1,0 +1,3 @@
+- Passos claros
+- Evidência
+- Severidade correta
