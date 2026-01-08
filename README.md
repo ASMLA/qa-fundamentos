@@ -50,7 +50,7 @@
 - Ler o manual completo
 
 📘 **Material base:**  
-`manual/qa_manual.md`
+[manual/qa_manual.md](manual/qa_manual.md)
 
 ---
 
@@ -116,10 +116,10 @@ Aplicação de pagamentos (Web + API + Mobile) usada em todo o treinamento.
 - Crie casos de teste do PayFlow
 
 📄 **Template obrigatório:**  
-`templates/caso_de_teste.md`
+[templates/caso_de_teste.md](templates/caso_de_teste.md)
 
 📋 **Checklist de qualidade:**  
-`checklists/caso_de_teste_checklist.md`
+[checklists/caso_de_teste_checklist.md](checklists/caso_de_teste_checklist.md)
 
 ---
 
@@ -132,7 +132,7 @@ Aplicação de pagamentos (Web + API + Mobile) usada em todo o treinamento.
 - Crie um plano de testes resumido
 
 📘 **Template obrigatório:**  
-`templates/plano_de_testes.md`
+[templates/plano_de_testes.md](templates/plano_de_testes.md)
 
 ---
 
@@ -155,10 +155,10 @@ Aplicação de pagamentos (Web + API + Mobile) usada em todo o treinamento.
 - Reporte bugs simulados
 
 🐞 **Template obrigatório:**  
-`templates/bug_report.md`
+[templates/bug_report.md](templates/bug_report.md)
 
 📋 **Checklist de qualidade:**  
-`checklists/bug_report_checklist.md`
+[checklists/bug_report_checklist.md](checklists/bug_report_checklist.md)
 
 ---
 
@@ -215,8 +215,8 @@ Aplicação de pagamentos (Web + API + Mobile) usada em todo o treinamento.
 
 ## 18) Arquivos de Apoio
 
-- 📘 Manual completo: `manual/qa_manual.md`
-- 📄 Manual em PDF: `pdf/qa_manual.pdf`
-- 🧪 Exercícios consolidados: `exercises/payflow_exercises.md`
+- 📘 Manual completo: [manual/qa_manual.md](manual/qa_manual.md)
+- 📄 Manual em PDF: [pdf/qa_manual.pdf](pdf/qa_manual.pdf)
+- 🧪 Exercícios consolidados: [exercises/payflow_exercises.md](exercises/payflow_exercises.md)
 
 ---
